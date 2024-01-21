@@ -31,6 +31,6 @@
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 </div>
-<img style="margin-top:30px;margin-left:30px" src="animation.gif" width="500" alt="animation.gif">
+<img style="position:absolute; margin-top:30px; margin-left:450px"  src="animation.gif" width="200" alt="animation.gif">
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
